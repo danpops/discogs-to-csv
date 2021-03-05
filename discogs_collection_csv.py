@@ -1,4 +1,4 @@
-# pip install discogs_client
+# pip3 install discogs_client
 
 import discogs_client
 import csv
