@@ -1,6 +1,6 @@
 # Discogs to CSV via Python
 
-This is a simple Python script to generate a CSV of your entire Discogs collection. You must input your Discogs user token in order for it to work.
+This is a Python script to generate a CSV of your entire Discogs collection. You must input your Discogs user token in order for it to work.
 
 ## Installation
 
